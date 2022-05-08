@@ -1,0 +1,11 @@
+.to-top{
+  position: fixed;
+  bottom: 10%;
+  right: 2%;
+  z-index: 100;
+  cursor: pointer;
+  i{
+    font-size: 36px;
+    color: gray;
+  }
+}
